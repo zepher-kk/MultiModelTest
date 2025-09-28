@@ -1,5 +1,3 @@
-#这是提供 参考示例的 YOLOMM训练器使用方法
-#按必须按照你的需求来更改而不是盲目去使用
 
 from ultralytics import YOLOMM
 
